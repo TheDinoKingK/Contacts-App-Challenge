@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>tommy</first_name>
+	<last_name>simons</last_name>
+	<phone_number>321-9342-2034</phone_number>
+	<notes>hey Its that child on the internet!</notes>
+</contact>
+<contact>
+	<first_name>wilbur</first_name>
+	<last_name>soot</last_name>
+	<phone_number>123 456 7890</phone_number>
+	<notes>None</notes>
+</contact>
+<contact>
+	<first_name>wwwww</first_name>
+	<last_name>I made</last_name>
+	<phone_number>456 789 1234</phone_number>
+	<notes>I couldnt make this without a name</notes>
+</contact>
+</contacts>

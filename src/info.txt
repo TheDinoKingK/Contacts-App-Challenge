@@ -1,0 +1,32 @@
+simple contacts application
+
+you can:
+add/create contacts
+edit contacts
+delete contacts
+
+you can access these actions via a dropdown menu at the top of the window
+
+all contacts will be displayed from a TableView control
+
+add code to the contactdata class to complete challenge (wait Its that easy?)
+
+hints:
+1. in addition to the ContactData class, you'll need a Contact class to store individual contacts.
+   for each contact, you'll store the first name, last name, phone number, and notes
+
+2. To get data binding to work with the TableView, you'll want to store the contact information
+   as simpleStringProperty fields.
+
+3. The Todolist application we worked on in an earlier lecture covers 90% of what you'll need to complete the challenge
+
+
+
+bonus stuff:
+Add Validation
+
+
+does It force people to enter a first and last name? : yes
+does It force people to write in the US phone number format? : yes
+does It make people having to write notes optional? : yes
+does It allow multiple of these functions to go? : yes
